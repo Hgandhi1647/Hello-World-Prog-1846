@@ -18,6 +18,6 @@ const average = parseInt(total/4);
 const html = `<p>Score 1 = ${score1}</p>
     <p>Score 2 = ${score2}</p>
     <p>Score 3 = ${score3}</p>
-    <p>Score 3 = ${score4}</p>
+    <p>Score 4 = ${score4}</p>
     <p>Average score = ${average}</p>`;
 document.write(html);
